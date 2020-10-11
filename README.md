@@ -1,3 +1,3 @@
-# React Counter
+# Counter Collection 
 
-React crash course project.
+Made in ReactJS
